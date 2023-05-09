@@ -23,13 +23,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse Message <a name="about-project"></a>
+# 📖 My Enumerable <a name="about-project"></a>
 
-**Decode Morse Message** is a ruby program to decode morse code messages. It has 3 methods:
+**My Enumerable** is a ruby program with 3 methods based on module Enumerable
 
-- decode_character
-- decode_word
-- decode_string
+- all? 
+- any?
+- filter
 ## 🛠 Built With <a name="built-with"></a>
 
 
@@ -62,9 +62,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- decode_character
-- decode_word
-- decode_string
+It has a module and 3 methods
+- all? 
+- any?
+- filter
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
